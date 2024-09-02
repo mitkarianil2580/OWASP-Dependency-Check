@@ -7,8 +7,8 @@ OWASP Dependency Check Installation and Running with a Node.js Project
 First, visit the [OWASP Dependency Check page](https://owasp.org/www-project-dependency-check/) to learn more about the project. To install the Dependency Check CLI, follow these steps:
 
 # Create a directory for OWASP Dependency Check
-mkdir owasp
-cd owasp
+1. mkdir owasp
+2. cd owasp
 
 # Download the latest release of Dependency Check
 wget https://github.com/jeremylong/DependencyCheck/releases/download/v10.0.2/dependency-check-10.0.2-release.zip
